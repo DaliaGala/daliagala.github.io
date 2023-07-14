@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+ I was born in Polish mountains called Sudety, and moved 3 times to different cities by the age of 9. I spent most of my life in Kielce (a city of 200k between Warsaw and Krakow), and I went to secondary school there. In the last year of school, I came up with the idea of studying abroad and applied to the UK. I got a conditional offer to study Molecular and Cellular Biology at Glasgow, University, finished school, wrote my exams, met my condition and got accepted into University, and went to Norway over the summer to do my first ever abroad internship in Oslo University Hospital. After the 1st year in Glasgow, I moved to Australia to complete a year of exchange at Melbourne University. I also did two internships in Australia, one in Monash University, and one in University of Queensland.
+
+After I returned to Glasgow, I applied to switch from my BHons to MSci, and, as a part of my new degree, was accepted to work for a year in the Francis Crick Institute in London during my 4th year. Before that, I spent the summer doing an internship in the US, in a company called Neogen in Nebraska.
+
+In 2019, I finished my MSci top of the class (I even got a prize!), and I was accepted to do my PhD at Oxford University. I'm working on synaptic plasticity, which means I study how synapses (connections between neurons - nerve cells) form when learning takes place.
 
 A data-driven personal website
 ======
