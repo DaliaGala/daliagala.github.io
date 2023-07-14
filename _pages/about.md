@@ -14,14 +14,11 @@ I am naturally curious and passionate about data - particularly where it spans m
 
 ## Education
 
-**2019 - 2023**
-DPhil - University of Oxford, [Ilan Davis Lab](https://ilandavis.com/dalia-gala)
+**2019 - 2023** DPhil - University of Oxford, [Ilan Davis Lab](https://ilandavis.com/dalia-gala)
 
 I am working on the involvement of glia in synapse development at the neuromuscular junction. I also collaborate with engineers in Micron and in the Department of Engineering to help with microscopy technology development from the point of view of a biologist. I also worked on our lab's [SARS‑CoV‑2 collaboration](https://elifesciences.org/articles/74153).
 
-**2014 - 2019**
-
-MSci - University of Glasgow
+**2014 - 2019** MSci - University of Glasgow
 
 I completed an Integrated Master's Degree in Molecular and Cellular Biology at the University of Glasgow. I completed the second year of my degree on an abroad exchange to the University of Melbourne.
 
