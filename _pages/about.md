@@ -10,7 +10,7 @@ redirect_from:
 
 **I am a researcher at the University of Oxford who is passionate about data.**
 
-I am naturally curious and passionate about data - particularly where it spans multiple disciplines and allows us to understand the big picture. My background in biological research and expertise in experimental design make me well-prepared to address complex challenges in data analysis, conducting research, and deploying analytical models. During my DPhil in Biochemistry at the University of Oxford, I have expanded my programming skills and developed my knowledge of machine learning. I am thrilled by the immense potential that data holds for shaping our future, and I am eager to contribute to its transformative power.
+As a naturally curious person with an analytical research background, I am drawn to stories which data can tell us - particularly where it spans multiple disciplines and allows us to understand the big picture. My background in biological research and expertise in experimental design make me well-prepared to address complex challenges in data analysis, conducting research, and deploying analytical models. During my DPhil in Biochemistry at the University of Oxford, I have expanded my programming skills and developed my knowledge of machine learning. I am thrilled by the immense potential that data holds for shaping our future, and I am eager to contribute to its transformative power.
 
 ## Education
 
