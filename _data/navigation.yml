@@ -8,9 +8,9 @@ main:
 
   - title: "Presentations"
     url: /presentations/    
-    
+        
   - title: "Courses"
     url: /courses/
-        
-  - title: "Teaching"
-    url: /teaching/
+
+  - title: "Other"
+    url: /other/
