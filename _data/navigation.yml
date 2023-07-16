@@ -4,10 +4,7 @@ main:
     url: /projects/
 
   - title: "Publications"
-    url: /publications/    
-
-  - title: "Presentations"
-    url: /presentations/    
+    url: /publications/      
         
   - title: "Courses"
     url: /courses/
