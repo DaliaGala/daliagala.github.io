@@ -3,8 +3,6 @@ title: "Past Projects"
 permalink: /projects/
 author_profile: true
 ---
-
-
 [**Target Variable Definition Simulator**](https://target-variable-simulator-hiring.streamlit.app/) _2023_
 
 The objective of algorithmic systems in the hiring process is to anticipate the qualities of a "good" employee. However, defining a "good" employee solely based on algorithms is problematic. This concept is vague, subjective, and can have significant consequences on fairness. To address this issue, I created FairTargetSim in Streamlit. It is an interactive simulator that utilizes real-world data to allow users to define target variables. Its purpose is to educate non-technical individuals involved in the process and enable all stakeholders to comprehend the fairness implications associated with defining target variables.

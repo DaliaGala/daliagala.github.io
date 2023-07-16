@@ -1,6 +1,7 @@
 ---
-title: "Publications"
 permalink: /publications/
+title: "Publications"
+excerpt: "My publications"
 author_profile: true
 ---
 ###2023
