@@ -5,7 +5,8 @@ excerpt: "My publications"
 author_profile: true
 ---
 ## 2023
-+ [Mammalian glial protrusion transcriptomes predict localization of Drosophila glial transcripts required for synaptic plasticity](https://www.biorxiv.org/content/10.1101/2022.11.30.518536v2) **Dalia Gala***, Jeff Y Lee*, Maria Kiourlappou, Joshua S. Titlow, Rita O. Teodoro, Ilan Davis, _biorXiv_
++ [Mammalian glial protrusion transcriptomes predict localization of Drosophila glial transcripts required for synaptic plasticity](https://www.biorxiv.org/content/10.1101/2022.11.30.518536v2)
+**Dalia Gala***, Jeff Y Lee*, Maria Kiourlappou, Joshua S. Titlow, Rita O. Teodoro, Ilan Davis, _biorXiv_
 + [Systematic analysis of YFP traps reveals common mRNA/protein discordance in neural tissues](https://rupress.org/jcb/article/222/6/e202205129/214092/Systematic-analysis-of-YFP-traps-reveals-common) Joshua S Titlow, Maria Kiourlappou, Ana Palanca, Jeffrey Y Lee, **Dalia S Gala**, et al., _Journal of Cell Biology_
 + [Universal adaptive optics for microscopy through embedded neural network control](https://www.researchsquare.com/article/rs-2840348/v1) Qi Hu, Martin Hailstone, Jingyu Wang, Matthew Wincott, Danail Stoychev, Huriye Atilgan, **Dalia Gala** et al., _arXiv_
 
